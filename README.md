@@ -22,7 +22,7 @@ The goal of this project is to perform a comprehensive marketing analysis to unc
 2. Product performance: to identify high-performing and underperforming items.
 3. Campaign and channel performance: enabling optimization and effective budget allocation.
 
-   # About the Data
+#About the Data
 The dataset is a CSV file that contains one table, consisting of 2,240 rows and 28 columns. It is a single table which contains information on 2,240 customers of Maven Market, covering customer profiles, purchasing habits, and sales channel usage (store, website, and catalog). It includes details on customer spending, recency of purchases, and demographic factors such as number of children, marital status, country, education level, and year of birth. Additionally, the data tracks discount purchases, customer complaints, and the outcomes of five marketing campaigns, providing valuable insights into customer engagement and preferences across various product categories, including wine, meat, fruits, fish, sweets, and gold items.
 Here is a link to the [dataset](https://www.kaggle.com/datasets/shahidkhan01174/maven-marketing-campaign)
 
@@ -30,7 +30,7 @@ Here is a link to the [dataset](https://www.kaggle.com/datasets/shahidkhan01174/
 ## Data Cleaning and Exploration – SQL Server and Power Query
 To prepare the dataset for analysis, I utilized both Power Query and SQL Server. While Power Query offered a more straightforward approach to cleaning the data, I also included the SQL codes to demonstrate my proficiency with SQL. The codes can be found in the SQL files.
 
-# Data Cleaning, Exploration and Analysis With Power Query
+#Data Cleaning, Exploration and Analysis With Power Query
 ·  ##Change Data Type:
 In the Power Query Editor, I  selected the columns I wanted to convert to the INT data type. The columns include:  NumWebVisits,Campaigns 1-5 columns, columns for channel of purchase(catalog, store,website),discount column and product columns (meat,wine,fish,gold, sweets,fruits. The expenditure column was converted to currency. With the columns selected, I clicked on the Transform tab in the ribbon, clicked Data Type and choose Whole Number (which corresponds to INTEGER).  Using this method, I also changed the enrollment date and birth-year columns to the date type.
 
@@ -83,6 +83,7 @@ ROW("Channel", "Catalog Purchases", "Contribution", SUM(Maven[Catalog Purchases]
 # Data Visualization in Power BI
 The dashboard can be accessed with this [link](https://app.powerbi.com/groups/me/reports/f753dbc3-d2b0-4bab-85be-c65b3bce5d7c?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare&bookmarkGuid=48b7e2da-7693-41d7-923a-6e0be29d189f)
 
+![Marketing Campaign Dashboard](https://github.com/user-attachments/assets/bccae723-730b-40b5-806c-99af33f3eb34)
 
 
 # Insights and Answers to Business Questions
