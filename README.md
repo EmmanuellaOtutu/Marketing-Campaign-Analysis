@@ -1,4 +1,4 @@
-# Marketing-Campaign-Analysis
+![Marketing Campaign Dashboard](https://github.com/user-attachments/assets/4fd6468b-17e2-4208-98ab-c59d1beffb03)# Marketing-Campaign-Analysis
 This project focuses on analyzing Maven’s data to evaluate customer purchasing behaviors, assess the impact of past marketing campaigns, and identify actionable insights.
 
 # Introduction
@@ -82,6 +82,9 @@ ROW("Channel", "Catalog Purchases", "Contribution", SUM(Maven[Catalog Purchases]
         
 # Data Visualization in Power BI
 The dashboard can be accessed with this [link](https://app.powerbi.com/groups/me/reports/f753dbc3-d2b0-4bab-85be-c65b3bce5d7c?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare&bookmarkGuid=48b7e2da-7693-41d7-923a-6e0be29d189f)
+![Marketing Campaign Dashboard](https://github.com/user-attachments/assets/625f25f4-bea3-46cf-ac3f-13d7526a36b3)
+
+
 
 
 
