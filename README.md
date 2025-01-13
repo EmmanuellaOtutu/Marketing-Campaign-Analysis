@@ -83,7 +83,7 @@ ROW("Channel", "Catalog Purchases", "Contribution", SUM(Maven[Catalog Purchases]
 # Data Visualization in Power BI
 The dashboard can be accessed with this [link](https://app.powerbi.com/groups/me/reports/f753dbc3-d2b0-4bab-85be-c65b3bce5d7c?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare&bookmarkGuid=48b7e2da-7693-41d7-923a-6e0be29d189f)
 
-![Marketing Campaign Dashboard](https://github.com/user-attachments/assets/bccae723-730b-40b5-806c-99af33f3eb34)
+
 
 
 # Insights and Answers to Business Questions
