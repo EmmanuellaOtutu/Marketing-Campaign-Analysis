@@ -1,5 +1,3 @@
-#Marketing-Campaign-Analysis
-This project focuses on analyzing Maven’s data to evaluate customer purchasing behaviors, assess the impact of past marketing campaigns, and identify actionable insights.
 
 # Introduction
 Maven Market is a retail company serving 2,240 customers over a two-year period (2012–2014). Specializing in a wide range of products, including wine, meat, sweets, fish, and gold products, Maven caters to diverse customer preferences through multiple sales channels such as physical stores, catalogs, and websites.
