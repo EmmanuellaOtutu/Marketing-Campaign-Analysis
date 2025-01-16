@@ -139,9 +139,13 @@ The catalog was the weakest-performing purchase channel, with just 5,963 purchas
 
 # Recommendations
 1.Marketing efforts, including advertisements and email campaigns, should focus more on customers in Spain, as the majority of Maven's customer base is located there
+
 2.Customer complaints must be promptly addressed and resolved, regardless of the discounts or offers they have received throughout the year.
+
 3.High-demand products, such as wine, fish, and meat, should be consistently available across all sales channels to meet customer expectations.
+
 4.Implement loyalty programs and special discounts to reward frequent customers who make purchases through the website or physical store.
+
 5.Ensure product descriptions are detailed, highlighting key benefits, unique features, and pricing on the catalog. In addition, promote catalog across all purchasing channels and add catalog-specific discounts, coupon codes, or limited-time offers to improve purchases.
 
 
